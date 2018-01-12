@@ -1,6 +1,17 @@
 *{user-select:none;}
 a{text-decoration:none; color:white; margin-top:1px;}
-body{text-align:center;}
+body{
+  text-align:center;
+  background-image: url("http://rexdl.com/wp-content/uploads/2018/01/theotown-android-thumb.jpg");
+  background-color: #cccccc;
+}
+.main-title{
+  color:white;
+  background-color:#207ecc;
+  text-align: center;
+  padding:40px;
+  font-size: 30px;
+}
 .flow{display:inline-block;}
 .fa{}
 .tile{
